@@ -1,7 +1,7 @@
 # Deep_dream
 Implementation of Google's DeepDream paper for feature visualisation.
 
-The implementaion is done in keras with TensorFlow as backend, and uses Inception networks as the pretrained model.
+The implementaion is done in keras with TensorFlow as backend, and uses Inception network as the pretrained model.
 
 HIGHLIGHTS:
 
