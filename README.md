@@ -1,6 +1,8 @@
 # Deep_dream
 Implementation of Google's DeepDream paper for feature visualisation.
+
 The implementaion is done in keras with TensorFlow as backend.
+
 HIGHLIGHTS:
 --Gradient Ascent for maximizing loss over activations.
 --Adding lost details while using octaves.
