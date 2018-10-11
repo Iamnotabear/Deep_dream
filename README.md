@@ -3,7 +3,8 @@ Implementation of Google's DeepDream paper for feature visualisation.
 
 The implementaion is done in keras with TensorFlow as backend, and uses Inception networks as the pretrained model.
 
-HIGHLIGHTS:\n
+HIGHLIGHTS:
+
 --Gradient Ascent for maximizing loss over activations.
 
 --Adding lost details while using octaves.
